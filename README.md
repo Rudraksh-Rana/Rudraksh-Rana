@@ -59,17 +59,17 @@
 
 ## 🚀 Projects
 
-### 🗺️ [Trip Smart](https://github.com) · *Live*
+### 🗺️ [Trip Smart](https://github.com) · 
 > End-to-end travel management system with automated budget allocation & real-time transit integration
 - Built a custom **recommendation engine** using user preference data to suggest itineraries
 - Implemented secure **RESTful APIs** for itinerary management with third-party maps integration
 
-### 💬 [Sentiment Analysis App](https://github.com) · *Live*
+### 💬 [Sentiment Analysis App](https://github.com) · 
 > High-concurrency API for real-time text classification using **DistilBERT** transformer models
 - Optimized model inference to achieve **sub-200ms response times**
 - Built an interactive dashboard for real-time sentiment scoring and visual trend analysis
 
-### 📈 [LSTM Stock Price Predictor](https://github.com) · *GitHub*
+### 📈 [LSTM Stock Price Predictor](https://github.com) · 
 > `PyTorch` · `FastAPI` · `Streamlit` · `Docker` · `MLflow`
 - Trained a stacked **2-layer LSTM model** in PyTorch achieving **<3% MAPE** on 6+ years of stock data
 - Built a **FastAPI** backend + **Streamlit** dashboard for real-time inference, deployed via Docker & MLflow on Render
