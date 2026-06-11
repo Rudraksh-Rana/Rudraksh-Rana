@@ -9,7 +9,7 @@
   <a href="mailto:rudrax010205@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com">💼 LinkedIn</a> •
   <a href="https://github.com">🐙 GitHub</a> •
-  <a href="#">🌐 Portfolio</a>
+  <a href="https://rudraksh-rana.github.io/Portfolio/">🌐 Portfolio</a>
 </p>
 
 ---
