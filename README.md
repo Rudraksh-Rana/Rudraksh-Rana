@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Student @ Parul University · AI Specialization</b><br/>
-  Building production-ready APIs, full-stack apps & ML-powered solutions
+  Building production-ready APIs, `Data Science Webapps & ML-powered solutions
 </p>
 
 <p align="center">
